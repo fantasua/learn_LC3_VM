@@ -8,5 +8,4 @@ enum TrapCode {
   TRAP_IN = 0x23,
   TRAP_PUTSP = 0x24,
   TRAP_HALT = 0x25,
-  TOTAL_COUNT
 };

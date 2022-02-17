@@ -18,7 +18,6 @@ enum OpCode {
   OP_RES,     // reserved, unused right now
   OP_LEA,     // load effective address
   OP_TRAP,    // excute trap
-  TOTAL_COUNT
 };
 
 enum ConditionBit {
